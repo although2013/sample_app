@@ -1,1 +1,1 @@
-Ruby on Rails tutorial
+Ruby on Rails tutorial 的练习
